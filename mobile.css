@@ -1,0 +1,72 @@
+body{
+    width: 100%;
+}
+.orange{
+    float:left;
+    width: 40%;
+    background-color: #DC6728;
+    height: 500px;
+    color:white;
+    font-size: 25px;
+    writing-mode:vertical-lr;
+    text-align: center;
+    
+}
+.darkblue{
+    background-color: #083256;
+    float: left;
+    width: 60%;
+    height: 500px;
+    color: white;
+    font-size: 50px;
+    
+} 
+.pinkbox{
+    background-color: plum;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+  
+.enlight{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: -20px;
+    
+}
+.whatabt{
+    background-color: #083256;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+    
+}
+.Participation{
+    background-color:lightgoldenrodyellow;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+}
+.benifits{
+    background-color:#19CAF9;
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+}
+.requirments{
+    background-color:lightgoldenrodyellow;
+    height: 700px;
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+}
+.last{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+    color: white;
+}
