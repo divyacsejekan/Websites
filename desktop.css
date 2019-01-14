@@ -1,0 +1,227 @@
+.divtop{
+    position: absolute;
+    height: 500px;
+    width: 100%;
+}
+.pink-top1{
+    position: relative;
+    float: left;
+    height: 500px;
+    width:20%;
+    background-color: palevioletred;
+    writing-mode: vertical-lr;
+    color:white;
+    line-height: 50px;
+   text-align: center;
+   font-size: 30px;   
+}
+.blue-top{
+    position: relative;
+    float: left;
+    height: 500px;
+    width:20%;
+    background-color: darkblue;
+    color:white;
+    vertical-align: middle;
+    line-height: 50px; 
+    font-size: 30px;
+}
+.pinktop2{
+   
+    float: left;
+    height: 500px;
+    width:60%;  
+}
+.pink{
+    height:250px;
+    width:100%;
+    background-color: palevioletred;
+    font-size: 20px;
+    color: white;
+    line-height: 50px; 
+}
+.flex1parent {
+    position: relative;
+    display: flex;
+    height: 50%;
+    width: 100%;
+    background-color: palevioletred;  
+  }
+  .flex1child123 {
+    position: relative;
+    align-self: center;
+    width: 100%; 
+    height: 100%;     
+  }
+   .divcentre{
+    position: absolute;
+    height: 1780px;
+    width: 100%;
+    background-color:lightgoldenrodyellow;
+    margin-top: 500px;
+  } 
+  .enlight{
+     position: relative;
+      width: 50%;
+      line-height: 50px;
+      height:400px;
+      padding-inline-start: 20px;
+  }
+  .lightblue1{
+   position: relative;
+    width: 20%;
+    height: 500px;
+    margin-left: 60%;
+    background-color: #5AAFD0;
+   margin-top:-419.5px;
+   opacity: 0.9;
+   z-index: 2;
+   
+}
+.centreimg{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    z-index: 1;
+    margin-top: -150px;  
+}
+.withhalfcircle{
+    position: relative;
+    display: flex;
+    margin-top: -300px; 
+    background-color: #0C3D4F;
+    width: 40%;
+    height: 250px;
+    z-index: 2;
+    color: white;
+}
+.withhalfcircle1{
+    align-self: center;
+    width: 20%; 
+    text-align: center;
+    background-color: #0C3D4F;
+    writing-mode:vertical-lr; 
+   text-align: center;
+   border: 2px wheat;
+    }
+.withhalfcircle2{
+    align-self: center;
+    background-color: #0C3D4F;
+    width: 50%; 
+    
+    }
+.withhalfcircle3{
+    align-self: center;
+    background-color: #0C3D4F;
+    width: 30%; 
+    }
+.parti{
+    position: relative;
+    margin-top: 150px;
+    width: 30%;
+    height: 300px;
+    z-index: 2;
+    background-color: lightgoldenrodyellow;
+margin-left: 30%;
+}
+.lightblue2{
+    position: relative;
+    width: 20%;
+    height:600px;
+    background-color: #5AAFD0;
+    margin-left: 60%;
+    margin-top: -410px;
+    z-index: 3;
+    opacity: 0.7;
+}
+.circle{
+    position: relative;
+height: 40%;
+width: 100%;
+}
+.belowcir{
+    position: relative;
+    height: 60%;
+    width: 100%;
+    background-color: #5AAFD0;
+    line-height: 30px;  
+}
+.background{
+    position: relative; 
+    height:400px;
+    width:40%;
+    float: left;
+    margin-top: -80px;
+    z-index: 1;
+}
+.div1{
+    position: relative;  
+    height:400px;
+    width:25%;
+    float: left;
+    margin-top: -80px; 
+    background-color: lightgoldenrodyellow;
+    z-index: 2;
+    margin-left: 1%;
+
+}
+.require{ 
+    position: relative;
+    width: 10%; 
+    text-align: center;
+    writing-mode:vertical-lr; 
+   text-align: center;
+   z-index: 3;
+   margin-top: -450px; 
+   margin-left: 85%;
+}
+.divbottom{
+    height: 1000px;
+    width: 100%;
+    background-color: palevioletred;
+    position: absolute;
+    margin-top: 320px;
+}
+
+.bottmdiv1{
+    height:40%;
+    width: 20%;
+    float: left;
+    background-color: #0C3D4F;
+    margin-left: 20%;
+    margin-top: -6.5%;
+    color:white;
+}
+.bottbigdiv2{
+    height:65%;
+    width: 20%;
+    float: left;
+    margin-top: -1.85%;
+      
+}
+.bottmdiv2{
+    height:53.7%;
+    width: 100%;
+    float: left;
+    background-color:#DC6728;  
+}
+.bottmdiv3{
+    height:95%;
+    width: 20%;
+    float: left;
+    margin-top: -1.85%;
+    background-color: #5AAFD0;   
+}
+.bottmdiv2a{
+    height:35%;
+    width: 20%;
+    float: left;
+    margin-top: -1.85%;
+    background-color:#DC6728;}
+.ac-res{
+    margin-left: 180%;
+    height:30%;
+    width: 50%;
+    writing-mode: vertical-lr;
+  margin-top: 10px;
+}
